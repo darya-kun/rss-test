@@ -1,2 +1,2 @@
 # rss-test
-test new ssh key
+[https://darya-kun.github.io/rsschool-cv/cv](https://darya-kun.github.io/rsschool-cv/cv)
