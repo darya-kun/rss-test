@@ -1,5 +1,4 @@
 # Darya Kunkevich
----
 
 ## 📡 Contact info
 * Location: Minsk, Belarus
